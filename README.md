@@ -6,7 +6,7 @@ Het Ministerie van Binnenlandse Zaken wil ook voor de nieuwe verkiezingen de ste
 Voor de Provinciale Staten verkiezingen van 2023 is vanaf nu een [excelsheet][ProvStat2023] beschikbaar.
 
 
-De OSF wil vanaf 4 januari 2021 aan de slag met de actualisatie van de toepassing. Verzoek is dan ook om op korte termijn te reageren. Als er issues worden gepubliceerd tijdens de actualisatiefase (vanaf 4 januari) dan worden deze beoordeeld op basis van impact. 
+OSF en VNG zullen na de verkiezingen de standaard wederom actualiseren en vragen om een reactie hierop.
 
 Voor vragen kunt u contact opnemen met sander.bakker@vng.nl
 
