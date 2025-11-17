@@ -1,3 +1,8 @@
+| Eigenaar | Ingevuld door |
+| --- | --- |
+| xxxxxx | xxxxxx |
+<hr/>
+
 # ODS-Stembureaus
 In de praktijkbeproeving Open Data Standaarden (ODS) is met gemeenten en inhoudelijk betrokkenen de semantische open data standaard (ODS) "stembureaus" tot stand gekomen. Deze standaard is sinds 2017 ingezet voor onder andere de Tweede Kamerverkiezingen, de Gemeenteraadsverkiezingen (gecombineerd met het Wiv-referendum), de Provinciale Staten verkiezingen en die van het Europees Parlement. 
 
