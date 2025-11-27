@@ -1,6 +1,6 @@
 | Eigenaar | Ingevuld door |
 | --- | --- |
-| xxxxxx | xxxxxx |
+| NTB | Sander Bakker |
 <hr/>
 
 # ODS-Stembureaus
