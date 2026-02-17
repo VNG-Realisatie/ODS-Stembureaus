@@ -10,8 +10,7 @@ De toepassing www.waarismijnstemlokaal.nl ,ontwikkeld door de Open State Foundat
 
 Het Ministerie van Binnenlandse Zaken wil ook voor de komende gemeenteraadsverkiezingen op 18 maart 2026 de stembureaus makkelijk vindbaar maken en heeft de OSF wederom gevraagd de toepassing waarismijnstemlokaal te actualiseren. Om die reden is de standaard stembureaus herzien naar de laatste inzichten in de versie 1.7. Dit bestand is nu beschikbaar gesteld voor hergebruik maar ook voor review. Ook in deze ronde is met name gekeken naar het toegankelijkheidsvraagstuk.
 
-Graag willen we dan ook vragen om te reageren op deze aangepaste semantische conceptstandaard “Stembureaus”. Zie hiervoor het gepubliceerde Excelbestand met de naam “Concept Stembureaus ODS 1.7 GR26”. 
-OSF en VNG zullen na de verkiezingen de standaard wederom actualiseren en vragen om een reactie hierop.
+Graag willen we dan ook vragen om te reageren op deze aangepaste semantische conceptstandaard “Stembureaus”. Zie hiervoor het gepubliceerde Excelbestand met de naam “Concept Stembureaus ODS 1.7 GR26”. De consultatie sluit 2 maart. Door een issue aan te maken kunnen we uw reactie verwerken. OSF en VNG zullen rond 3 maart de reacties verwerken tot een vastgestelde versie die gebruikt wordt tijdens de verkiezingen. 
 
 Voor vragen kunt u contact opnemen met sander.bakker@vng.nl
 
